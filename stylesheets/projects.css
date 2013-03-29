@@ -1,7 +1,12 @@
 .tool {
+    white-space: nowrap;
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.project {
+    white-space: nowrap;
 }
